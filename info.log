@@ -1,0 +1,7 @@
+{"message":"Undefined binding(s) detected when compiling SELECT. Undefined column(s): [folder_id] query: select * from \"notes\" where \"folder_id\" = ?","level":"error"}
+{"message":"serializeFolder is not defined","level":"error"}
+{"message":"insert into \"note\" (\"content\", \"folder_id\", \"name\") values ($1, $2, $3) returning * - relation \"note\" does not exist","level":"error"}
+{"message":"serializeFolder is not defined","level":"error"}
+{"message":"Cannot read property 'name' of undefined","level":"error"}
+{"message":"Cannot read property 'name' of undefined","level":"error"}
+{"message":"Cannot read property 'name' of undefined","level":"error"}
